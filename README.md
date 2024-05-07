@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, oops, Mern**
 
-- 📫 How to reach me **parthibdhar3690@gmail.com**
+- 📫 How to reach me **prthbdhr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
